@@ -18,4 +18,22 @@ Hot instances can now be added using OCI as the cloud platform at the template l
 
    ![](./img/01.png)
 
-3. Scroll down to the **Enable Hot Instances (1)** section and choose the regions. Then click on the **Submit (2)** button.
+3. Scroll down to the **Enable Hot Instances** section and enable the checkbox. 
+
+   ![](./img/02.png)
+
+4. Then click on the **Submit** button.
+
+   ![](./img/03.png)
+
+5. Once the ODL is submitted, click on the **Hot Instance** button.
+
+   ![](./img/04.png)
+
+6. Next, click on the **+ ADD button (1)** and provide the **Number of Hot Instances (2)** needed. Then click on the **Add (3)** button.
+
+   ![](./img/05.png)
+
+7. Once the hot instances are added, below is the output for all the regions.
+
+   ![](./img/06.png)
