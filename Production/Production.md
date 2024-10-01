@@ -2,7 +2,7 @@
 
 ### Overview
 
-Hot instances can now be added using OCI as the cloud platform at the template level.
+Hot instances can now be added using OCI as the cloud platform.      
 
 ### Prerequisites
 
